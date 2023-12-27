@@ -1,0 +1,10 @@
+{
+  "moduleFileExtensions": [
+    "js",
+    "json"
+  ],
+  "rootDir": "../../eminence",
+  "testRegex": [
+    ".test.js$"
+  ]
+}
