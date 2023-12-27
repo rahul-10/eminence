@@ -1,4 +1,4 @@
-# eminence
+# Eminence
 
 ## Clone this project
 ```
@@ -8,11 +8,11 @@
 ```
 
 ## Run Project
-Commands: npm start
+Command to start project: npm start
 
 ## Test
-Added few unit tests only because of time crunch.
-Command: npm test
+Added few unit tests only because of time crunch.<br>
+Command to run test: npm test
 
 
 ## Curls for Apis
